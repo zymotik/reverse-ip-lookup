@@ -13,4 +13,5 @@ Now confirming which domains are still registered with the IP address 54.246.137
 * ian-b.com is active.
 * ianbrownphotography.co.uk is active
 * heatash.com is active.
+Total active domain count: 3
 ```
